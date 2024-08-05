@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/wedu"><img src="https://api.daily.dev/devcards/v2/eHQGtQ0M79qNlDNr6xQRx.png?type=wide&r=kbq" width="652" alt="WeDu's Dev Card"/></a>
+<a href="https://app.daily.dev/wedu"><img src="https://api.daily.dev/devcards/v2/eHQGtQ0M79qNlDNr6xQRx.png?type=wide&r=kbq" width="700" alt="WeDu's Dev Card"/></a>
