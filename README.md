@@ -1,3 +1,3 @@
-this is wedu's official account and all of our software is here
+this is wedu's official account and all of my software is here
 
-**CURRECTLY I'MFOCUSING ON DISB's DEVELOPMENT TO RELEASE THE NEXT VERSION**
+**CURRECTLY I'M FOCUSING ON DISB's DEVELOPMENT TO RELEASE THE NEXT VERSION**
